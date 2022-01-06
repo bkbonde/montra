@@ -47,7 +47,7 @@ requests==2.4.3
 #biopython==1.63
 #django_nvd3==0.6.0
 python-dateutil==2.2
-celery==3.1.0
+celery==5.2.2
 django-celery==3.1.0
 python-memcached==1.48
 -e git://github.com/jmoiron/johnny-cache.git@d96ea94c5dfcde517ff8f65d6ba4e435d8a0168c#egg=johnny-cache
