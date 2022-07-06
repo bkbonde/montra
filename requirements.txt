@@ -15,7 +15,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 Django==1.4.5
-lxml==3.4.0
+lxml==4.9.1
 PyYAML==3.10
 South==1.0.2
 autopep8==0.8.6
